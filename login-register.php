@@ -316,7 +316,7 @@ if ($conn->connect_error) {
     }
     function gonder()
     {
-        header("location: http://$url/");
+        header("location: http://loaclhost/");
     }
     ob_end_flush();
     ?>
