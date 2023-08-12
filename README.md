@@ -20,4 +20,4 @@
 - Eğer biraz bile php den anlıyorsanız zaten websiteyi kurarsınız. Kuramazsanız benim ile [Discord](https://discord.gg/KKjeaqtY9K "Discord") üzerinden talep oluşturarak iletişime geçebilirsiniz.
 
 #ÖNEMLI
--**BU SAYFA ÇOK AMATÖR HAZIRLANMIŞTIR, GÜVENLİK AÇIKLARI VB. OLABİLİR. BU SİTE BİRAZ DAHA PHP ÖĞRENMEK İÇİN YAPILMIŞTIR!!**
+- **BU SAYFA ÇOK AMATÖR HAZIRLANMIŞTIR, GÜVENLİK AÇIKLARI VB. OLABİLİR. BU SİTE BİRAZ DAHA PHP ÖĞRENMEK İÇİN YAPILMIŞTIR!!**
