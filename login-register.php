@@ -316,7 +316,8 @@ if ($conn->connect_error) {
     }
     function gonder()
     {
-        header("location: http://loaclhost/");
+        $url = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : '';
+        header("location: http://$url/"); //BURAYA WEB ADRESİNİZİ GİRİN! 
     }
     ob_end_flush();
     ?>
