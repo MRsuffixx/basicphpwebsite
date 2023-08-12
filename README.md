@@ -18,3 +18,6 @@
 3. Mysql dayabaseyi ayarladıktan sonra eğer eliniz ile database tablolarını ayarlamadıysanız `tablo-olustur.php` sayfasından tablo oluşturabilirsiniz. **Tabloyu oluşturduktan sonra `tablo-olustur.php` sayfasını silmeyi unutmayın!**
 - Eğer hata vb. birşey bulursanız [Discord](https://discord.gg/KKjeaqtY9K "Discord") üzerinden talep açabilirsiniz.
 - Eğer biraz bile php den anlıyorsanız zaten websiteyi kurarsınız. Kuramazsanız benim ile [Discord](https://discord.gg/KKjeaqtY9K "Discord") üzerinden talep oluşturarak iletişime geçebilirsiniz.
+
+#ÖNEMLI
+-**BU SAYFA ÇOK AMATÖR HAZIRLANMIŞTIR, GÜVENLİK AÇIKLARI VB. OLABİLİR. BU SİTE BİRAZ DAHA PHP ÖĞRENMEK İÇİN YAPILMIŞTIR!!**
