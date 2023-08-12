@@ -1,7 +1,7 @@
 <?php 
 $servername = "localhost";
-$username = "mywebsitehesap";
-$password = "LoL_1234";
-$dbname = "mywebsite";
+$username = "username";
+$password = "ŞİFRE";
+$dbname = "dbname";
 $aktifurl ="http://<WEBSİTENİZİN URL Sİ>";
 ?>
