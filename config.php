@@ -3,5 +3,5 @@ $servername = "localhost";
 $username = "username";
 $password = "ŞİFRE";
 $dbname = "dbname";
-$aktifurl ="http://<WEBSİTENİZİN URL Sİ>";
+$aktifurl ="http://<WEBSİTENİZİN URL Sİ>";//ŞİMDİLİK DEVRE DIŞI İLERİDE AKTİF OLACAK!
 ?>
