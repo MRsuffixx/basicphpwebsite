@@ -1,6 +1,6 @@
 [TOCM]
 ### Proje Bilgileri
-
+- [DEMO](https://launcher.mrsuffix.com/)
 - Bu websitesi evde can sıkıntısından hazırlanmıştır.
 - Website hazırlanırken bazı yerlerde [ChatGPT](https://chat.openai.com/ "ChatGPT") ve [Google Bard](https://bard.google.com/ "Google Bard") Kullanılmıştır.
 - Website basit ve amatörce hazırlanmış olup direk kullanım için değildir!
